@@ -68,7 +68,6 @@ Designed using Figma. Includes:
 - Custom filter screens  
 - Playlist generation flow  
 
-(Upload images/screenshots here)
 
 ---
 
